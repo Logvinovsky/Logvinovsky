@@ -319,11 +319,15 @@ font-size: 13px;
 	background-color: #505050;
 }
 
-/* @media screen and (max-width:500px){ */
+ @media screen and (max-width:500px){ 
 .mobile{
 	display:none;
 	}
-/* } */
+
+.lg{
+	col-lg
+}
+ } 
 /*.margin{
 
 	margin-left: 80%;
