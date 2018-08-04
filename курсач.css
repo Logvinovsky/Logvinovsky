@@ -318,6 +318,12 @@ font-size: 13px;
 	width: 85%;
 	background-color: #505050;
 }
+
+@media screen and(max-width:550px){
+.class{
+	width:0;
+	height:0;
+}
 /*.margin{
 
 	margin-left: 80%;
