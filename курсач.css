@@ -319,7 +319,7 @@ font-size: 13px;
 	background-color: #505050;
 }
 
- @media screen and (orientation=portrait){ 
+ @media screen and (max-width: 500px){ 
 	
 .mobile{
 	 min-width:100%;
