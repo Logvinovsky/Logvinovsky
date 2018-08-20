@@ -324,11 +324,16 @@ font-size: 13px;
 .mobile{
 	 min-width:100%;
 	}
+
+	.mobile_img{
+		width: 300px;
+	}
 }
 
 .text_left{
 	color:white;
 }
+
 	 
 	 
 	 
